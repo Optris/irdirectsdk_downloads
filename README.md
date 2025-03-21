@@ -4,10 +4,19 @@ Download Area for the Software Development Kit (SDK) for Optris Imagers.
 # Provided Binaries
 A short description of the provided binaries for different operating systems and the environment they were built in. On request, additional binaries could be provided. For this, reach out to [info@Optris.de](mailto:info@Optris.de).
 
-## Linux
+## Ubuntu 24.04 LTS
 ### Environment
 - Compiler: gcc
 - Compiler version: 13.3.0 
+### Architectures
+- amd64
+- i386
+- arm64
+
+## Ubuntu 22.04 LTS
+### Environment
+- Compiler: gcc
+- Compiler version: 11.4.0 
 ### Architectures
 - amd64
 - i386
