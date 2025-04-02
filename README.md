@@ -22,6 +22,13 @@ A short description of the provided binaries for different operating systems and
 - i386
 - arm64
 
+## Ubuntu 20.04 LTS
+### Environment
+- Compiler: gcc
+- Compiler version: 9.4.0
+### Architectures
+- amd64
+
 ## Windows
 ### Environment
 - Compiler: MSVC
