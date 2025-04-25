@@ -44,6 +44,7 @@ strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep GLIBCXX
   - GLIBCXX: 3.4.28
 ### Architectures
 - amd64
+- arm64
 
 ## Windows
 ### Environment
