@@ -1,8 +1,8 @@
 # irdirectsdk_downloads
-Download Area for the Software Development Kit (SDK) for Optris Imagers. 
+Download Area for the Software Development Kit (SDK) for Optris Imagers.
 
 # Provided Binaries
-A short description of the provided binaries for different operating systems and the environment they were built in. On request, additional binaries could be provided. For this, reach out to [info@Optris.de](mailto:info@Optris.de).
+A short description of the provided binaries for different operating systems and the environment they were built in. On request, additional binaries could be provided. For this, reach out to [direct-sdk@optris.com](mailto:direct-sdk@optris.com).
 
 > Note: You can use the following commands to find out the version of your GLIBC and GLIBCXX. Afterwards, chose a build of the library that uses the same or a older GLIBC/GLIBCXX version.
 ```bash
@@ -11,7 +11,7 @@ ldd --version
 
 # GLIBCXX
 strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep GLIBCXX
-``` 
+```
 
 
 ## Ubuntu 24.04 LTS
